@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AtomRay</title>
+	<link rel="stylesheet" type="text/css" href="/inc/css/materialize.css">
+	<link rel="stylesheet" type="text/css" href="/inc/css/main.css">
+	<link rel="stylesheet" type="text/css" href="/inc/css/main.css">
+	<script src="/inc/js/materialize.js"></script>
+</head>
+<body>
+<nav>
+	<div class="nav-wrapper container">
+    	<a href="#!" class="brand-logo">Logo</a>
+    	<ul class="right hide-on-med-and-down">
+        	<li><a class="waves-effect waves-light btn-large">Contact</a></li>
+      	</ul>
+    </div>
+</nav>
+<div id="hero">
+	<div class="container">
+	<h1>AtomRay</h1>
+	<h2>An application developer company</h2>
+	</div>
+</div>
+</body>
+</html>
